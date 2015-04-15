@@ -6,10 +6,9 @@ Instructions: https://class.coursera.org/rprog-004/assignment/view?assignment_id
 
 Submitted code is in the following files
 
-* best.R
-* rankhospital.R
-* rankall.R
-* scratchPad.R contains ungraded portions of the exercise
+* best.txt
+* rankhospital.txt
+* rankall.txt
 
 To submit:
 
